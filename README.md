@@ -1,4 +1,3 @@
-Sample screenshots
 ![Capture](https://github.com/Sachin2310/contactManagement/assets/92154698/57ff315e-7989-4ab3-9a5f-80f642606b6f)
 ![Capture2](https://github.com/Sachin2310/contactManagement/assets/92154698/3d363484-1515-4aa8-bf85-c9f73cb6390a)
 ![Capture3](https://github.com/Sachin2310/contactManagement/assets/92154698/e23d69a4-5d3d-46bd-956e-58baf0dbc537)
